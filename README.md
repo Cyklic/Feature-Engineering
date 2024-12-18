@@ -1,6 +1,6 @@
 Feature-Engineering
 
-Completed on 15th October, 2024
+Completed on 29th October, 2024
 
 Project Scope: One of your clients is a large real estate investment company. They invest in houses, appartments and condos within a small county in New York state. As a part of their business, they want to try and predict the fair transaction price of a property before it's sold.
 
